@@ -23,7 +23,7 @@ const Order_confirmation = ({deliverydetails}) => {
         </div>
         
           <Link to={'/'}
-          className='mt-10 mx-auto w-90 px-10 py-4 bg-orange-600 rounded-full font-extrabold text-white shadow-lg shadow-orange-800/50 cursor-pointer hover:bg-orange-700 transition duration-200 flex  items-center justify-center space-x-2 transform hover:ring-4 hover:ring-green-600/50 uppercase tracking-wider'>
+          className='mt-10 mx-auto md:py-4 py-4 bg-orange-600 rounded-full font-extrabold text-white shadow-lg shadow-orange-800/50 cursor-pointer hover:bg-orange-700 transition duration-200 flex  items-center justify-center space-x-2 transform hover:ring-4 hover:ring-green-600/50 uppercase tracking-wider'>
             
             Continue Shopping
           </Link>
